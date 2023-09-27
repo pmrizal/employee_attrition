@@ -1,3 +1,3 @@
 # employee_attrition
 
-This model was work of group where intend to finish a competition
+This model was work of group which intend to finish a competition
